@@ -1,7 +1,7 @@
 # Определение температуры стали
 
 ### Инструменты и навыки
-Python: `numpy, pandas, scipy, sklearn, lightgbm, matplotlib, seaborn`  
+Python: `numpy, pandas, scipy, sklearn, catboost, lightgbm, matplotlib, seaborn`  
 Предобработка, EDA, статистический анализ, feature engineering, обучение с учителем, анализ остатков
 ## Задача
 
